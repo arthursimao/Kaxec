@@ -12,4 +12,4 @@ An sober roblox executor for linux.
 
 
 
--# Some of the code are from atingle executor so credits for them <3
+# Some of the code are from atingle executor so credits for them <3
