@@ -10,3 +10,6 @@ An sober roblox executor for linux.
 # References
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2b28f1a-d80c-4cf5-8b1a-f7e105bec95a" />
 
+
+
+-# Some of the code are from atingle executor so credits for them <3
